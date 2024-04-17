@@ -287,16 +287,16 @@ footer{
         
         }  
         iframe{
-            margin: 0px;
-            width: 450px;
+            width: 350px;
+            margin: 20px;
         }  
         #forme{
-            margin: 0px;
             background-image: url(slider-bg.jpg);
             object-fit: cover;
             background-position: 50% 50%;
             background-size: cover;
-            width: 400px;
+            width: 350px;
+            margin: 20px;
         
         }  
         .input-group{
@@ -314,7 +314,7 @@ footer{
             margin-top: 5px;
             padding: 10px;
             border: 2px solid transparent;
-            width: 350px;
+            width: 300px;
         }
         .input-group input:focus{
             outline: none;
@@ -322,7 +322,7 @@ footer{
         
         #bt{
             background-color:aqua;
-            width: 350px;
+            width: 300px;
             position: relative;
             color: black;
             /* min-width: 500px; */
@@ -340,9 +340,7 @@ footer{
             /* border: none; */
             
         }
-        iframe{
-            width: 380px;
-        }
+        
         #name{
             color: rgb(242,18,18);
             font-size: 14px;
