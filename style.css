@@ -166,6 +166,8 @@ section{
     color: black;
     /* min-width: 500px; */
     border: none;
+    margin: 5px;
+
 }
 #form #bt:hover{
     background-color: black;
@@ -313,9 +315,6 @@ footer{
             color: aliceblue;
         
         }  
-        span{
-            color: aliceblue;
-        }
         #forme h1{
             color: aliceblue;
         }
@@ -343,11 +342,12 @@ footer{
         
         #bt{
             background-color:aqua;
+            margin: 5px;
             width: 300px;
             position: relative;
             color: black;
             /* min-width: 500px; */
-            border: none;
+            border: 50px;
         }
         #form #bt:hover{
             background-color: black;
