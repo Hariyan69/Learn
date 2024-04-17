@@ -289,13 +289,13 @@ footer{
         padding: 50px;
       } */
     #imge img{
-        margin-left: 10px; 
+        margin-left: 150px; 
        }
     #imge1 img{
-         margin-left: 10px; 
+         margin-left: 15px; 
         }
     #imge2 img{
-         margin-left: 10px; 
+         margin-left: 15px; 
         }  
     #hyphen{
             margin-left: 150px; 
@@ -303,7 +303,7 @@ footer{
         }  
         iframe{
             width: 350px;
-            margin: 5px;
+            margin: 2px;
         }  
         #forme{
             background-image: url(slider-bg.jpg);
@@ -311,7 +311,7 @@ footer{
             background-position: 50% 50%;
             background-size: cover;
             width: 350px;
-            margin: 5px;
+            margin: 2px;
             color: aliceblue;
         
         }  
