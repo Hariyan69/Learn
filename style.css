@@ -183,6 +183,13 @@ section{
 iframe{
     margin: 50px;
 }
+#info{
+    background-color:black;
+    color: white;
+  }
+#info h1{
+    font-size: 25px;
+}  
 #name{
     color: rgb(242,18,18);
     font-size: 14px;
@@ -196,7 +203,7 @@ iframe{
     border-color: rgb(242,18,18);
 }
 footer{
-    background: black;
+    background:darkgreen;
     text-align: center;
     color: white;
 }
@@ -303,8 +310,16 @@ footer{
             background-size: cover;
             width: 350px;
             margin: 10px;
+            color: aliceblue;
         
         }  
+        span{
+            color: aliceblue;
+        }
+        #forme h1{
+            color: aliceblue;
+        }
+
         .input-group{
             display: flex;
             flex-direction: column;
@@ -346,6 +361,10 @@ footer{
             /* border: none; */
             
         }
+        #last{
+          background-color: black;
+          height: 100px;
+        }
         
         #name{
             color: rgb(242,18,18);
@@ -361,7 +380,7 @@ footer{
             border-color: rgb(242,18,18);
         }
         footer{
-            background: black;
+            background:darkgreen;
             text-align: center;
             color: white;
         }      
