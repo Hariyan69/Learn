@@ -228,7 +228,7 @@ footer{
     }
     .carousel-inner h2{
         color:rgb(148, 172, 29);
-        font-size: 15px;
+        font-size: 12px;
 
     
     }
@@ -288,7 +288,7 @@ footer{
         }  
         iframe{
             width: 350px;
-            margin: 20px;
+            margin: 10px;
         }  
         #forme{
             background-image: url(slider-bg.jpg);
@@ -296,7 +296,7 @@ footer{
             background-position: 50% 50%;
             background-size: cover;
             width: 350px;
-            margin: 20px;
+            margin: 10px;
         
         }  
         .input-group{
