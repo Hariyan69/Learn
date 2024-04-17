@@ -228,12 +228,15 @@ footer{
     }
     .carousel-inner h2{
         color:rgb(148, 172, 29);
-        font-size: 12px;
+        font-size: 15px;
+        margin: 5px;
 
     
     }
     .carousel-inner p{
         font-size: 10px;
+        margin: 5px;
+
 
       
     }
@@ -245,29 +248,32 @@ footer{
     }
     .btn-1 {
         display: inline-block;
-        /* padding: 1px 45px; */
         background-color: #ffff00;
         color: #050505;
         border-radius: 0;
         text-transform: uppercase;
         text-decoration: none;
+        width: 100px;
+        height: 20px;
+        font-size: 10px;
+        padding: 5px;
       }
     
       .btn-2 {
         display: inline-block;
-        /* padding: 12px 45px; */
         background-color:black;
         color: white;
         border-radius: 0;
         text-transform: uppercase;
         text-decoration: none;
+        width: 100px;
+        height: 20px;
+        font-size: 10px;
+        padding: 5px;
 
     
       }
-    #carouselExampleDark h1{
-     
-        
-    }  
+       
     /* #offer{
         background-color:  rgb(23, 38, 1);
         color: white;
